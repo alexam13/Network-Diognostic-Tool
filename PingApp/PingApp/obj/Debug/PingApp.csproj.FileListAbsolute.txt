@@ -1,0 +1,10 @@
+C:\Users\moughja\source\repos\PingApp\PingApp\bin\Debug\PingApp.exe.config
+C:\Users\moughja\source\repos\PingApp\PingApp\bin\Debug\PingApp.exe
+C:\Users\moughja\source\repos\PingApp\PingApp\bin\Debug\PingApp.pdb
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.csprojAssemblyReference.cache
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.Form1.resources
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.Properties.Resources.resources
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.csproj.GenerateResource.cache
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.csproj.CoreCompileInputs.cache
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.exe
+C:\Users\moughja\source\repos\PingApp\PingApp\obj\Debug\PingApp.pdb
